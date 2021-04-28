@@ -1,2 +1,4 @@
-# curso_alura_python_introducao_orientacao_objeto
-Curso da Alura de Python - Introdução de Orientação a Objetos
+**Curso da Alura de Python - Introdução de Orientação a Objetos** - [https://cursos.alura.com.br/course/python-3-intro-orientacao-objetos](https://cursos.alura.com.br/course/python-3-intro-orientacao-objetos)
+
+**Conceitos Abordados:**
+
