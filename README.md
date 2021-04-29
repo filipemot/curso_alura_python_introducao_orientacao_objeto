@@ -16,3 +16,7 @@
 - Acesso aos atributos através do self
 - Garbage Collector
 - O tipo None
+- Atributos privados
+- Encapsulamento de código
+- Encapsulamento da manipulação dos atributos nos métodos
+- Coesão do código
