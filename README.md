@@ -4,3 +4,9 @@
 - Dicionário
 - Funções
 - Encapsulamento de código
+- Classes
+- Objetos
+- Função construtora
+- Endereço e referência de objetos
+- Atributos de classe
+- Acesso aos atributos através do objeto
