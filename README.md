@@ -23,3 +23,5 @@
 - Métodos de leitura dos atributos, os getters
 - Métodos de modifição dos atributos, os setters
 - Propriedades
+- Métodos privados
+- Métodos da classe, os métodos estáticos
